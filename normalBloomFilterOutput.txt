@@ -1,0 +1,3 @@
+Number of Lookup in A: 1000
+
+Number of Lookup in B: 10
